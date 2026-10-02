@@ -1,0 +1,16 @@
+{
+  "Simulator Target Bundle": "com.PushNotificationsSample",
+  "event_id": 1,
+  "aps": {
+    "alert": {
+      "title": "Image notification",
+      "body": "This payload demonstrates Notification Service Extension"
+    },
+    "badge": 1,
+    "mutable-content": 1,
+    "sound": "default",
+    "category": "pushWithImageCategory"
+  },
+  "smallImageURL": "https://example.com/preview.jpg",
+  "bigImageURL": "https://example.com/content.jpg"
+}

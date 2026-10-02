@@ -1,0 +1,13 @@
+{
+  "Simulator Target Bundle": "com.PushNotificationsSample",
+  "aps": {
+    "alert": {
+      "title": "iOS Community Meetup",
+      "body": "Don't forget about today's meetup"
+    },
+    "sound": "default",
+    "category": "eventCategory"
+  },
+  "eventDate": "October 15, 19:00",
+  "eventLocation": "Community Hall"
+}
